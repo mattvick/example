@@ -1,0 +1,743 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"D",
+				"DateTimeZone"
+			],
+			[
+				"Date",
+				"DateTime"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"Da",
+				"DateTime"
+			],
+			[
+				"Str",
+				"stringify"
+			],
+			[
+				"co",
+				"conversion"
+			],
+			[
+				"Y",
+				"Y-m-d"
+			],
+			[
+				"hy",
+				"hydrated"
+			],
+			[
+				"line",
+				"lineDots"
+			],
+			[
+				"visit",
+				"visits"
+			],
+			[
+				"conversion",
+				"conversions"
+			],
+			[
+				"array_",
+				"array_keys"
+			],
+			[
+				"combin",
+				"combinations"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"clic",
+				"clickedElement"
+			],
+			[
+				"cum",
+				"cumVisits"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"f",
+				"foreach	foreach …"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"lo",
+				"log"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1427,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "events.html",
+			"settings":
+			{
+				"buffer_size": 1704,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/events.js",
+			"settings":
+			{
+				"buffer_size": 366,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 10,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "java",
+		"selected_items":
+		[
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/matthew/Sites/optimcore/example.com",
+		"/Users/matthew/Sites/optimcore/example.com/js"
+	],
+	"file_history":
+	[
+		"/Users/matthew/Sites/optimcore/loader/optcor.js",
+		"/Users/matthew/Sites/optimcore/loader/run.js",
+		"/Users/matthew/Sites/optimcore/loader/index.html",
+		"/Users/matthew/Sites/optimcore/loader/original.html",
+		"/Users/matthew/Sites/optimcore/loader/CNAME",
+		"/Users/matthew/Sites/optimcore/loader/goal.html",
+		"/Users/matthew/Sites/optimcore/loader/.gitignore",
+		"/Users/matthew/Sites/optimcore/loader/Procfile",
+		"/Users/matthew/Sites/optimcore/loader/init.js",
+		"/Users/matthew/Desktop/diff/ab_new.html",
+		"/Users/matthew/Desktop/diff/ab_edit.html",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Experiment/layout.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Experiment/experiment_buttons.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Experiment/statusForm.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Form/ExperimentStatusType.php",
+		"/Users/matthew/Sites/optimcore/optimcore/.elasticbeanstalk/config.yml",
+		"/Users/matthew/Sites/optimcore/optimcore/web/app.php",
+		"/Users/matthew/Sites/optimcore/optimcore/app/config/parameters.php",
+		"/Users/matthew/Sites/optimcore/optimcore/app/config/parameters.yml.dist",
+		"/Users/matthew/Sites/optimcore/optimcore/app/config/config_dev.yml",
+		"/Users/matthew/Sites/optimcore/optimcore/app/Resources/views/portal.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/app/config/parameters.yml",
+		"/Users/matthew/Sites/optimcore/optimcore/app/config/config.yml",
+		"/Users/matthew/Sites/optimcore/optimcore/app/config/config_staging.yml",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/UserBundle/Resources/config/routing/all.xml",
+		"/Users/matthew/Sites/optimcore/optimcore/app/AppKernel.php",
+		"/Users/matthew/Sites/optimcore/optimcore/app/config/routing_staging.yml",
+		"/Users/matthew/Sites/optimcore/optimcore/app/config/routing.xml",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Resources/views/PaymentMethod/script.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/EditorBundle/Resources/views/Default/index.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/PortalBundle/Resources/views/Default/index.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/EditorBundle/Controller/DefaultController.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Experiment/name.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Experiment/type.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Experiment/variation.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Experiment/control.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Resources/views/PaymentMethod/email.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Resources/views/Subscription/index.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Experiment/report.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Controller/ExperimentController.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Experiment/review.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Experiment/settings.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Experiment/nav.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Resources/views/Snippets/summary.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/app/Resources/views/email/user_payment_thankyou.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/CoreBundle/Controller/DeployController.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/CoreBundle/Util/UrlMatchingRegExpGenerator.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Controller/SubscriptionController.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Resources/config/services.xml",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Resources/views/Address/show.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Twig/IntlTwigExtension.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Twig/ClassTwigExtension.php",
+		"/Users/matthew/Sites/optimcore/optimcore/vendor/twig/extensions/lib/Twig/Extensions/Extension/Intl.php",
+		"/Users/matthew/Sites/optimcore/optimcore/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Controller/Controller.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/WorkerBundle/Controller/RestrictionController.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Controller/HelpController.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/CoreBundle/Controller/HitController.php",
+		"/Users/matthew/Sites/optimcore/optimcore/app/Resources/views/email/restriction_lifted.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/app/Resources/views/email/restricted.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/app/Resources/views/email/resetting.txt.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/app/Resources/views/email/resetting.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/app/Resources/views/email/admin_restriction_lifted.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/cron.yaml",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/UserBundle/Resources/config/services.xml",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/UserBundle/EventListener/RegistrationListener.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/WorkerBundle/Resources/views/Restriction/expire.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/EventListener/BraintreeConfigurationListener.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Entity/Subscription.php",
+		"/Users/matthew/Sites/optimcore/optimcore/app/Resources/views/app.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Default/current_usage.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/.ebextensions/symfony.config",
+		"/Users/matthew/Sites/optimcore/optimcore/app/DoctrineMigrations/Version20160411094228.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Manager/SubscriptionManager.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/WorkerBundle/Command/LimitRestrictionExpireCommand.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Controller/DefaultController.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/CoreBundle/EventListener/CycleDateAndLimitListener.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Manager/UsageManager.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Entity/Subscription.php~",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/UserBundle/Entity/UserRepository.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Entity/ExperimentRepository.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Controller/VisualAbController.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Controller/DefaultController.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Controller/SplitUrlController.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/CoreBundle/Command/LimitRestrictionExpireCommand.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/UserBundle/Entity/User.php",
+		"/Users/matthew/Sites/optimcore/optimcore/app/Resources/views/email/limited.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/SplitUrl/edit.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/PortalBundle/Resources/views/Default/pricing.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Snippets/goal_modal.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/VisualAb/new.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/SplitUrl/new.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Snippets/faqs.html.twig",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Manager/ExperimentManager.php",
+		"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/AppBundle/Resources/views/Default/upgrade_banner.html.twig",
+		"/Users/matthew/Sites/opeditor/vwo/test.js",
+		"/Users/matthew/Sites/opeditor/vwo/index.html",
+		"/Users/matthew/Sites/opeditor/vwo/links.md",
+		"/Users/matthew/Sites/app.vwo.com/editor/js/jquery-utils.js",
+		"/Users/matthew/Sites/optimcore-cdn/bower.json",
+		"/Users/matthew/Sites/optimcore-cdn/package.json",
+		"/Users/matthew/Sites/optimcore-cdn/js/editor.js",
+		"/Users/matthew/Sites/optimcore-cdn/TODO.md",
+		"/Users/matthew/Sites/optimcore-cdn/css/font-lineicons.css",
+		"/Users/matthew/Sites/optimcore-cdn/.gitignore",
+		"/Users/matthew/Sites/optimcore-cdn/js/prototype.js",
+		"/Users/matthew/Sites/optimcore-cdn/gulpfile.js",
+		"/Users/matthew/Sites/optimcore-cdn/prod/css/font-lineicons.min.css",
+		"/Users/matthew/Sites/optimcore-cdn/develop/css/font-lineicons.css",
+		"/Users/matthew/Sites/optimcore/TODO.md",
+		"/Users/matthew/Sites/optimcore/README.md",
+		"/Users/matthew/Sites/optimcore/app/Resources/web/gulpfile.js",
+		"/Users/matthew/Sites/optimcore/src/Optimcore/AppBundle/Resources/config/services.xml",
+		"/Users/matthew/Sites/optimcore/src/Optimcore/AppBundle/Manager/ChartManager.php",
+		"/Users/matthew/Sites/optimcore/vendor/doctrine/dbal/lib/Doctrine/DBAL/Schema/Table.php",
+		"/Users/matthew/Sites/optimcore/src/Optimcore/UserBundle/EventListener/LoginLocaleListener.php",
+		"/Users/matthew/Sites/optimcore/src/Optimcore/UserBundle/Resources/views/Welcome/email.html.twig",
+		"/Users/matthew/Sites/optimcore/src/Optimcore/UserBundle/Resources/config/services.xml",
+		"/Users/matthew/Sites/optimcore/src/Optimcore/AppBundle/Controller/DefaultController.php",
+		"/Users/matthew/Sites/optimcore/src/Optimcore/UserBundle/EventListener/RegistrationListener.php",
+		"/Users/matthew/Sites/optimcore/app/Resources/web/js/line-chart.js",
+		"/Users/matthew/Sites/optimcore/src/Optimcore/AppBundle/Controller/ChartController.php",
+		"/Users/matthew/Sites/optimcore/src/Optimcore/AppBundle/Resources/views/Experiment/report.html.twig",
+		"/Users/matthew/Sites/optimcore/app/Resources/web/bower.json",
+		"/Users/matthew/Sites/optimcore/.gitignore",
+		"/Users/matthew/Sites/optimcore/src/Optimcore/AppBundle/Entity/ExperimentRepository.php",
+		"/Users/matthew/Sites/optimcore/src/Optimcore/CoreBundle/Entity/ConversionRepository.php",
+		"/Users/matthew/Sites/optimcore/app/config/config.yml",
+		"/Users/matthew/Sites/optimcore/src/Optimcore/CoreBundle/Hydrators/CombinationHydrator.php"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore/app",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore/app",
+			"/Users/matthew/Sites/optimcore/optimcore/app/Resources/views",
+			"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/app/Resources/views/email",
+			"/Users/matthew/Sites/optimcore/optimcore/vendor",
+			"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore/app/Resources/views/email/resetting.html.twig",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Resources/views",
+			"/Users/matthew/Sites/optimcore/optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/app",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Controller",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/optimcore/optimcore/src/Optimcore/BillingBundle/Resources/views",
+			"/Users/matthew/Sites/optimcore/optimcore/src",
+			"/Users/matthew/Sites/app.vwo.com",
+			"/Users/matthew/Sites/app.vwo.com/app/modules/editor",
+			"/Users/matthew/Sites/optimcore/vendor/composer",
+			"/Users/matthew/Sites/optimcore/vendor/doctrine/dbal/lib/Doctrine/DBAL",
+			"/Users/matthew/Sites/optimcore/src",
+			"/Users/matthew/Sites/optimcore/src/Optimcore"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"_op_cor_account_id",
+			"_opCorAddScript",
+			"_op_cor_account_id",
+			"_goals_goals",
+			"cdn",
+			"appbundle_visual_ab_goals",
+			"Experiment",
+			"AbStats",
+			"StatusType",
+			"VisualAbDraftType",
+			"AbStats",
+			"StatusType",
+			"VisualAbDraftType",
+			"UrlTypeType",
+			"form-wizzard",
+			"wizzard-picker",
+			"x_panel",
+			"wizzard-picker",
+			"form_url",
+			"urlForm",
+			"subnavTab",
+			"Action(",
+			"appbundle_experiment_status",
+			"createStatusEditForm",
+			"ExperimentStatusType",
+			"urlForm",
+			"cdn_host",
+			"second_level_domain",
+			"app_domain",
+			"second_level_domain",
+			"app_domain",
+			"DOMAIN",
+			"second_level_domain",
+			"route",
+			"OptimcoreAppBundle:Experiment:name.html.twig",
+			"class=\"btn-default",
+			"RegionBundle",
+			"getCo",
+			"twig",
+			"localized",
+			"local",
+			"getSubdomain",
+			"function renderView",
+			"function rederView",
+			"OptimcoreBillingBundle:paymentMethod:email.html.twig",
+			"->matches($goal",
+			"->matches(",
+			"unparseUrl",
+			"->matches(",
+			"->matches",
+			"restriction_lifted.html.twig",
+			"resetting.html.twig",
+			"modal-confirm",
+			"modal",
+			"proxy/",
+			"trinac",
+			"Vítejte v Optimcore",
+			"fa-lg",
+			"currentStackIndex",
+			"this.stack",
+			"optimcoreEditor",
+			"validateChange",
+			".changes",
+			"addChange",
+			"type",
+			"changeStyle",
+			"changes",
+			"changes.js",
+			"cssChanges",
+			"css",
+			"updateStyles",
+			"css",
+			"addChange",
+			"undo",
+			".changes",
+			"stack",
+			"undoChange",
+			".json",
+			"updateJsTextarea",
+			"hideElement",
+			"setMenuItems",
+			"hi",
+			"dispatcher",
+			"Message",
+			"message",
+			"Message",
+			"message",
+			"Message",
+			"message",
+			"Message",
+			"hip_mandrill.dispatcher",
+			"$message",
+			"$dispatcher",
+			"Swift_Message::newInstance",
+			"use Hip\\MandrillBundle\\Message;",
+			"mailer_port",
+			"@Method",
+			"listener",
+			"createNotFoundException",
+			"->getContainer()",
+			"getCreated",
+			"created",
+			"index",
+			"billingFrequency",
+			"dispatcher",
+			"Next billing date",
+			"limited.html.twig",
+			"next",
+			"previous",
+			"nextCycleDate",
+			"getNextCycleDate",
+			"getCycleStartDate",
+			"getCycleStart",
+			"urrentC",
+			"getCurrentCycleStartDate",
+			"urrentC",
+			"getPreviousCycleDate",
+			"getc",
+			"nextCycleDate",
+			"NextCycleDate",
+			"nextCycleDate",
+			"NextCycleDate",
+			"nextCycleDate",
+			"PreviousCycleDate",
+			"previousCycleDate",
+			".limited",
+			"Limited(",
+			"limit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "events.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1140,
+								1140
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 154.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/events.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 10,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "example.com.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 337.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
